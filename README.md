@@ -34,9 +34,12 @@ VS Code · IntelliJ IDEA · Eclipse · Git · Visual Studio 2015 · Markdown · 
 ---
 ## GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rubentoucedapro&theme=github_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubentoucedapro&theme=github_dark)](https://git.io/streak-stats)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentoucedapro&layout=compact&theme=github_dark)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentoucedapro&layout=compact&theme=github_dark&cache_seconds=86400)
+
+
 
 
 
