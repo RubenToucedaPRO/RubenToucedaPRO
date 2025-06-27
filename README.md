@@ -9,6 +9,7 @@ Tengo amplios conocimientos en **Java y Spring Boot**. Durante mis cuatro meses 
 
 🔭 Actualmente estoy trabajando en:
 - Una aplicación web full-stack para la **gestión de despensa, lista de la compra y recetas** , como evolución de mi proyecto de fin de curso.
+- 
 👉 [Ver sección "Mi despensa (versión pública)"](https://github.com/RubenToucedaPRO/springboot-mi-despensa-webapp-public?tab=readme-ov-file#mi-despensa-versi%C3%B3n-p%C3%BAblica)
 
 🌱 Estoy aprendiendo:
