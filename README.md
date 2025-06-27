@@ -29,7 +29,7 @@ VS Code · IntelliJ IDEA · Eclipse · Git · Visual Studio 2015 · Markdown · 
 ---
 
 📫 Cómo contactarme:
-- [LinkedIn](www.linkedin.com/in/rubén-touceda-martinez)
+- [LinkedIn](www.linkedin.com/in/ruben-touceda-martinez)
 - [Email](mailto:ruben.touceda@gmail.com)
 
 ---
