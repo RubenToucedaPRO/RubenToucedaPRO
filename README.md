@@ -8,7 +8,7 @@ Tengo amplios conocimientos en **Java y Spring Boot**. Durante mis cuatro meses 
 ---
 
 🔭 Actualmente estoy trabajando en:
-- Una aplicación web full-stack para la **gestión de despensa, lista de la compra y recetas**.
+- Una aplicación web full-stack para la **gestión de despensa, lista de la compra y recetas** , como evolución de mi proyecto de fin de curso.
 
 🌱 Estoy aprendiendo:
 - **JavaScript**
