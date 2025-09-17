@@ -1,7 +1,6 @@
+![Header](./github-header-banner.png)
 
-# 💫 Hola, soy Rubén
-
-Soy un desarrollador Full-Stack junior con verdadera pasión por la programación. Me considero una persona seria, responsable y comprometida. Prueba de ello son los 19 años que trabajé para la misma empresa, lo que respalda mi profesionalidad y constancia.
+Desarrollador Full-Stack junior con verdadera pasión por la programación. Me considero una persona seria, responsable y comprometida. Prueba de ello son los 19 años que trabajé para la misma empresa, lo que respalda mi profesionalidad y constancia.
 
 Tengo amplios conocimientos en **Java y Spring Boot**. Durante mis cuatro meses de prácticas en empresa participé activamente en un proyecto real con esta tecnología, y también la utilicé para desarrollar mi proyecto de fin de curso.
 
