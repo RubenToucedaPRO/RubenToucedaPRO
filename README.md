@@ -11,9 +11,7 @@ Tengo amplios conocimientos en **Java y Spring Boot**. Durante mis cuatro meses 
 
 👉 [Ver sección "Mi despensa (versión pública)"](https://github.com/RubenToucedaPRO/springboot-mi-despensa-webapp-public?tab=readme-ov-file#mi-despensa-versi%C3%B3n-p%C3%BAblica)
 
-🌱 Estoy aprendiendo:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Master en desarrollo con IA (Big School)
 
 ---
 
@@ -35,6 +33,7 @@ Tengo amplios conocimientos en **Java y Spring Boot**. Durante mis cuatro meses 
 ![SonarQube](https://img.shields.io/badge/SonarQube-F47C20.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
