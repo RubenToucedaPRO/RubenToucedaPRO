@@ -79,7 +79,7 @@ Antes de dedicarme al desarrollo, dediqué **19 años a la automatización indus
 ---
 
 📫 Cómo contactarme:
-- [LinkedIn](https://www.linkedin.com/in/rubén-touceda-martinez)
+- [LinkedIn](https://www.linkedin.com/in/ruben-touceda-martinez)
 - [Email](mailto:ruben.touceda@gmail.com)
 
 ---
