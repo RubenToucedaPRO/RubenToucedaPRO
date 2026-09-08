@@ -58,12 +58,15 @@ Antes de dedicarme al desarrollo, dediqué **19 años a la automatización indus
 
 **Market Analysis App** — Motor de análisis técnico de acciones
 > App web de análisis técnico de activos financieros con Arquitectura Hexagonal. Integra datos de mercado de APIs externas, motor de estrategias declarativas y componentes de IA generativa. Java 21, Spring Boot 3, MySQL, Thymeleaf, JUnit 5, JaCoCo >80%.
+> [Repo](https://github.com/RubenToucedaPRO/market-analysis-app)
 
 **Gestión Escolar** — Sistema web de administración educativa
 > Sistema completo para gestión integral de un centro educativo. Autenticación con sesiones HTTP y roles, arquitectura en capas con Blueprints Flask modulares. Python 3, Flask, Jinja 2, unittest + coverage.
+> [Repo](https://github.com/RubenToucedaPRO/gestion-escolar-python)
 
 **Mi Despensa** — Gestión inteligente de inventario doméstico
 > App web con escaneo de códigos de barras, Spring Security, integración con Cloudinary (imágenes) y APIs externas. Java 17, Spring Boot 3, MySQL, Thymeleaf.
+> [Repo](https://github.com/RubenToucedaPRO/springboot-mi-despensa-webapp)
 
 ---
 
